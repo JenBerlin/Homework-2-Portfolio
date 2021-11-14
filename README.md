@@ -20,6 +20,8 @@ CSS
 
 **Screenshots**
 
+![Getting Started](./assets/css/screenshots/Screen Shot_1.png)
+
 **Tech/Framwork used**
 HTML
 CSS
