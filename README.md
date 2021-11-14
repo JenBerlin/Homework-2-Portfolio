@@ -16,7 +16,7 @@ HTML
 
 CSS
 
-// Contains all the design on semantic elements, sections and classes
+// Contains all the design on semantic elements, sections, classes and id
 
 **Screenshots**
 
