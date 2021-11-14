@@ -20,7 +20,7 @@ CSS
 
 **Screenshots**
 
-![Getting Started](./assets/css/screenshots/Screen Shot_1.png)
+![Getting Started](./assets/css/screenshots/ScreenShot_1.png)
 
 **Tech/Framwork used**
 HTML
