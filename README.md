@@ -21,6 +21,9 @@ CSS
 **Screenshots**
 
 ![Getting Started](./assets/css/screenshots/ScreenShot_1.png)
+![Getting Started](./assets/css/screenshots/ScreenShot_2.png)
+![Getting Started](./assets/css/screenshots/ScreenShot_3.png)
+![Getting Started](./assets/css/screenshots/ScreenShot_4.png)
 
 **Tech/Framwork used**
 HTML
